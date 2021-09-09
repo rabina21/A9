@@ -1,0 +1,9 @@
+body{
+     background-color: black;
+     margin: 0;
+}
+.top-wrapper{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
